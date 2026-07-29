@@ -43,8 +43,8 @@
 // GND.....GND
 // ONLY RST AND SDA/SS CAN BE SET TO OTHER PINS, THE REST MUST BE EXACTLY AS SET HERE
 
-// const char *OCPP_WS_URL = "ws://192.168.8.237:9000"; // Change to your CSMS (HA or other)
+// const char *OCPP_WS_URL = "ws://192.168.8.xx:9000"; // Change to your CSMS (HA or other)
 // const char *CHARGE_POINT_ID = "charger001";
 //   #define OCPP_BACKEND_URL "ws://192.168.178.100:8180/steve/websocket/CentralSystemService"
-const char *OCPP_WS_URL = "ws://192.168.8.250:8181/steve/websocket/CentralSystemService"; // ip address of the PC runinng steve ocpp server.
+const char *OCPP_WS_URL = "ws://192.168.8.xx:8181/steve/websocket/CentralSystemService"; // ip address of the PC runinng steve ocpp server.
 const char *CHARGE_POINT_ID = "charger001";
