@@ -1,0 +1,4 @@
+
+
+float readVirtualEnergy();
+void readVirtualMeter();
